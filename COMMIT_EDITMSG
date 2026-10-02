@@ -1,0 +1,10 @@
+Add pre-connection checks and improve bot responsiveness
+
+Adds a TCP pre-check to verify server reachability before connection attempts and implements a 30-second heartbeat to provide visibility during spawn waits, with a reduced 90-second connection timeout.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 0b05d83e-be4e-4193-9246-dfb78a657d91
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 011580f9-a3b0-4b67-a0a5-d125464265c9
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/28f9d537-53ed-4067-971a-016a385bc850/0b05d83e-be4e-4193-9246-dfb78a657d91/0HSwwNl
+Replit-Helium-Checkpoint-Created: true
